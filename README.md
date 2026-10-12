@@ -19,6 +19,7 @@ SHA256 do ZIP: `AF09B98ABBB5101EACB5BF37E2A65BDA20DD246E7C5E6C1227575B14DE1BEA28
 
 Build 0.51.4: zero erros e três avisos conhecidos de ferramentas/shaders de depuração. Testes controlados abrangem puzzles, progressão até a fuga, checkpoint, percepção, interface e jumpscare. Isso não substitui um playtest humano completo nem mede desempenho. Contém terror, sons intensos e sustos.
 
-O pacote contém assets compilados para uso no jogo. Não redistribua os assets isolados. A fonte Unity fica em repositório separado e privado. Licenças/atribuições incluídas no pacote continuam aplicáveis. O áudio do jumpscare foi fornecido pelo autor, que confirmou o uso do mesmo plano dos demais áudios gerados; o plano específico não foi documentado nesta conversa.
+O pacote contém assets compilados para uso no jogo. Não redistribua os assets isolados. A fonte Unity fica em repositório separado e privado. Licenças/atribuições incluídas no pacote continuam aplicáveis.
 
 Contato: Gozzi.dev@gmail.com · Instagram @jlgozzi.
+
