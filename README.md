@@ -3,11 +3,11 @@
 Site público: https://jlgozzi.github.io/last-signal-feira/
 
 ## Jogar
-1. Baixe LastSignal-Windows-v0.57.1.zip nos Assets da release0.57.1.
+1. Baixe LastSignal-Windows-v0.58.0.zip nos Assets da release0.58.0.
 2. Use Extrair tudo e mantenha os arquivos juntos.
 3. Abra LastSignal.exe. Escolha História ou Arcade; consulte Configurações para os comandos.
 
-Build0.57.1: zero erros e três avisos conhecidos de ferramentas/debug.196 arquivos do ZIP e versão interna conferidos.
+Build0.58.0: zero erros e três avisos conhecidos de ferramentas/debug.196 arquivos do ZIP e versão interna conferidos.
 
 SHA256: `1CB2487FFDA9C5EC58F4D409E8569A3A343B01E3580D6400E81CD45CD106B8B4`
 
