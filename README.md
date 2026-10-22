@@ -1,26 +1,19 @@
-# Last Signal - versão da feira
+# Last Signal — protótipo para Windows
 
-Protótipo de terror e exploração isométrica, ambientado em uma estação de rádio de Acorizal, Mato Grosso, em 1998. Desenvolvedor responsável: João Lucas Gozzi, Cuiabá-MT.
+Site público: https://jlgozzi.github.io/last-signal-feira/
 
-## Download e execução
+## Jogar
+1. Baixe LastSignal-Windows-v0.57.1.zip nos Assets da release0.57.1.
+2. Use Extrair tudo e mantenha os arquivos juntos.
+3. Abra LastSignal.exe. Escolha História ou Arcade; consulte Configurações para os comandos.
 
-1. Abra Releases e escolha a versão 0.57.0.
-2. Baixe `LastSignal-Windows-v0.57.0.zip` em Assets. Não use os arquivos Source code.
-3. Clique com o botão direito no ZIP e escolha **Extrair tudo**.
-4. Mantenha todos os arquivos e pastas extraídos juntos.
-5. Execute **LastSignal.exe** na pasta extraída, sem abrir o jogo de dentro do ZIP.
-6. Escolha História ou Modo Arcade. Na História, leia o prólogo; no Arcade, consulte os controles/mapa e confirme a largada. Configurações permite ajustar os comandos.
+Build0.57.1: zero erros e três avisos conhecidos de ferramentas/debug.196 arquivos do ZIP e versão interna conferidos.
 
-PC Windows; partida offline e individual, sem conta. O executável não possui assinatura digital. Se o Windows exibir um aviso, confira a origem e o checksum antes de decidir executar. Não há benchmark ou configuração mínima de hardware medidos.
+SHA256: `1CB2487FFDA9C5EC58F4D409E8569A3A343B01E3580D6400E81CD45CD106B8B4`
 
-SHA256 do ZIP: `133230DB7EA104018CFD514FB9E98E28368E17002DF9EB6548EF960B1BC0B894`
+## Site
+HTML/CSS/JavaScript sem dependências de execução. GitHub Pages publica a raiz da branch main. Galeria com três capturas existentes do protótipo, sem vídeo; ampliação em dialog nativo, navegação por âncoras e animações IntersectionObserver com fallback e respeito a prefers-reduced-motion. Conteúdo permanece legível sem JavaScript. Prévia local com qualquer servidor estático.
 
-## Estado da versão
-
-Build0.57.0: compilação concluída, zero erros e três avisos conhecidos de ferramentas/debug. Versão interna e196 arquivos do ZIP conferidos. Checks de modelo cobrem5000 minigames; início físico do perseguidor observado após15segundos ativos e pausa validada. Há pendência no teste virtual de alternância mouse/controle. Controle físico, fuga humana completa e equilíbrio competitivo seguem em validação. Contém terror, sons intensos e sustos.
-
-O pacote contém assets compilados para uso no jogo. Não redistribua os assets isolados. A fonte Unity fica em repositório separado e privado. Licenças/atribuições incluídas no pacote continuam aplicáveis.
+Protótipo independente de João Lucas Gozzi, Cuiabá-MT. Terror, sustos e sons intensos. Não há benchmark/hardware mínimo medido. Controle físico, travessia humana com lanterna e equilíbrio do Arcade permanecem em validação; há uma pendência no teste virtual de troca mouse/controle. Licenças do pacote continuam aplicáveis; não redistribua assets isolados.
 
 Contato: Gozzi.dev@gmail.com · Instagram @jlgozzi.
-
-Arcade: cinco tipos de minigames aleatórios, tipos distintos nos dois equipamentos, configuração persistente na tentativa,15segundos antes da caça física, preparação com controles/mapa e placar local com nome. História mantém puzzles e saves. Minimapa compacto expansível nos dois modos. Rankings dos formatos anteriores ficam preservados em arquivos separados.
